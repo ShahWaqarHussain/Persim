@@ -14,3 +14,6 @@ A TDA-python package for visualization and Machine learning. Persim is a Python 
 *Heat Kernel*
 
 *Diagram plotting*
+
+
+Here is the link you can download it, [Persim](https://persim.scikit-tda.org/en/latest/).
